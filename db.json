@@ -40,7 +40,37 @@
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 29.99
+    },
+    {
+      "name": "Venus Fly Trap",
+      "image": "https://www.sciencenews.org/wp-content/uploads/2020/10/100720_cs_venusflytrap_feat-1028x579.jpg",
+      "price": "11.99",
+      "id": 8
+    },
+    {
+      "name": "Orchid",
+      "image": "https://cdn.shopify.com/s/files/1/0516/8968/5154/products/blue-dendrobium-orchid-flowers-online_pri_21_1451_l.jpg?v=1683166261&width=800",
+      "price": "22.99",
+      "id": 9
+    },
+    {
+      "name": "Lilly",
+      "image": "https://cdn.shopify.com/s/files/1/1210/7806/products/Sorbonne_Lilly_arrangement_in_vase.jpg?v=1571438769",
+      "price": "12.99",
+      "id": 10
+    },
+    {
+      "name": "Lilac",
+      "image": "https://i.etsystatic.com/35332396/r/il/7c457d/3946744896/il_fullxfull.3946744896_on3t.jpg",
+      "price": 27.99,
+      "id": 11
+    },
+    {
+      "name": "Gardenia",
+      "image": "https://www.gardenia.net/storage/app/public/guides/detail/U29oJlIbExvlWUd1VFRvKt3kxZqHzGnDGrStWW7T.webp",
+      "price": "13.99",
+      "id": 13
     }
   ]
 }
